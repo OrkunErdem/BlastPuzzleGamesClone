@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6979272c52e4c47f4a61631fe6d5c2fe, type: 3}
+  m_Name: PoolContainer
+  m_EditorClassIdentifier: 
+  PoolObjectList:
+  - Name: BasicNode
+    Count: 8
+    Object: {fileID: 5023066393819413398, guid: 143d61f1a2c10e24eb3f4b1707e68d45,
+      type: 3}
+  - Name: RedItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 5ec8b6bc06c84a7428e6d1091e358e0a,
+      type: 3}
+  - Name: BlueItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 385c2d8f7a4379149917c16ca57a8f62,
+      type: 3}
+  - Name: GreenItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 63d820989ca3a01438b1159bb0ea6c5b,
+      type: 3}
+  - Name: YellowItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 9ef2b0946080a6748923823e57afc06b,
+      type: 3}
+  - Name: TntItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: a3b75a89d7c32d040b76c43e73d36e38,
+      type: 3}
+  - Name: BoxItem
+    Count: 10
+    Object: {fileID: 7275092399045675879, guid: 71bdcf93a68ff6e4f9381a60d84dd86b,
+      type: 3}
+  - Name: StoneItem
+    Count: 10
+    Object: {fileID: 7275092399045675879, guid: a66309473cef9684083b6e79cd72387e,
+      type: 3}
+  - Name: VaseItem
+    Count: 10
+    Object: {fileID: 7275092399045675879, guid: 9f5d06e847f4bc64e9343e4ad53622f0,
+      type: 3}
+  - Name: Area
+    Count: 1
+    Object: {fileID: 5683002375474500837, guid: f81e17a8d666c5449a239fe782ae2afb,
+      type: 3}
+  - Name: OnBuildingUI
+    Count: 1
+    Object: {fileID: 5197268818364776507, guid: 0461e49d4ae17bc4c9b98b07501ade10,
+      type: 3}
